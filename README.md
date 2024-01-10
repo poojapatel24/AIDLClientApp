@@ -4,6 +4,7 @@ We will create an AIDL client. The server app hosts a Bound Service and contains
 the button's colour within the Main activity.
 
 What is AIDL?
+
 The Android Interface Definition Language (AIDL) is similar to other IDLs: it lets you define the programming interface that both the client and service agree upon in order to communicate
 with each other using interprocess communication (IPC).
 
